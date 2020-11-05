@@ -17,11 +17,11 @@
 
 ## Asignaturas
 
-{%- for asignatura in site.data.teaching %}
+{% for asignatura in site.data.teaching %}
 
 * {{ asignatura}}
 
-{%- endfor %}
+{% endfor %}
 
 ## Repl.it
 
