@@ -6,6 +6,8 @@
 
 ![](images/casianorodriguezleon2.png)
 
+Color favorito: {{ site.color }}
+
 ## Estudios
 
 * {{site.estudios[0]}}
