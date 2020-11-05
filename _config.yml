@@ -1,2 +1,5 @@
 title: Mi Bio
 theme: jekyll-theme-leap-day
+estudios:
+  - Matemáticas
+  - Informática
