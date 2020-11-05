@@ -6,7 +6,8 @@
 
 ![](images/casianorodriguezleon2.png)
 
-Color favorito: {{ site.color }}
+* Color favorito: {{ site.color }}
+* Mi emoji: :rocket:
 
 ## Estudios
 
