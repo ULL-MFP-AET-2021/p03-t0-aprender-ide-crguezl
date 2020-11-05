@@ -1,5 +1,6 @@
 title: Mi Bio
 theme: jekyll-theme-leap-day
+color: green
 estudios:
   - Matemáticas
   - Informática
