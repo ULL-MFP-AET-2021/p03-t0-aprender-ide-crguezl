@@ -1,4 +1,10 @@
 {
-  "subjects": ["AET", "PL", "SYTWS"],
-  "sports": ["swimming"]
+  "subjects": [
+    "AET",
+    "PL",
+    "SYTWS"
+  ],
+  "sports": [
+    "swimming"
+  ]
 }
