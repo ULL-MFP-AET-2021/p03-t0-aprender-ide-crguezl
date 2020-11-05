@@ -27,7 +27,7 @@
 
 {% for sport in site.data.teaching.sports %}
 * {{ sport }}
-{% endfor %}}
+{% endfor %}
 
 ## Repl.it
 
