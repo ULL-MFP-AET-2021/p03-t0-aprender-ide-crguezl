@@ -17,11 +17,17 @@
 
 ## Asignaturas
 
-{% for asignatura in site.data.teaching %}
+{% for asignatura in site.data.teaching.subjects %}
 
 * {{ asignatura}}
 
 {% endfor %}
+
+## Deportes Favoritos
+
+{% for sport in site.data.teaching.sports %}
+* {{ sport }}
+{% endfor %}}
 
 ## Repl.it
 
