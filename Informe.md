@@ -1,7 +1,8 @@
 # Informe
 
-## Informe d eCasiano
+## Informe de Casiano
 
+Casiano escribe qui
 
 ## Informe de Juana
 
